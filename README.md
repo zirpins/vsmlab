@@ -1,2 +1,3 @@
-# vsmlab_wise1516
-Distributed Systems Master Lab - Microservice Example
+# HsKA Distributed Systems Master Lab
+Collection of introductory example projects
+- Microservice Example with Spring Cloud Netflix
