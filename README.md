@@ -1,3 +1,3 @@
-# HsKA Distributed Systems Master Lab
+# HsKA Distributed Systems Master Lab (vsmlab)
 Collection of introductory example projects
-- Microservice Example with Spring Cloud Netflix
+- ./microservices: Spring Cloud Netflix demo
